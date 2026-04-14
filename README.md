@@ -1,16 +1,15 @@
-## Hi there 👋
+# Welcome to Mohammad's GitHub Page
 
-<!--
-**ms-garshasbi/ms-garshasbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Mohammad Sadeq Garshasbi Herabad, a PhD researcher in Computer Science at Karlstad University, Sweden.  
 
-Here are some ideas to get you started:
+My research interests include Edge Computing, Distributed Systems, AI/ML, and Optimisation. I focus on developing ML–based optimisation techniques for distributed systems, aiming to design adaptive and efficient solutions for edge–cloud infrastructures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔗 Connect with Me
+
+- 💼 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/mohammadsadeq-garshasbi-herabad-b5966a241/)
+- 🎓 Google Scholar: [![Google Scholar](https://img.shields.io/badge/Scholar-gray?logo=google-scholar)](https://scholar.google.com/citations?user=7He7nM8AAAAJ&hl=en) 
+- 📧 Email: *ms.garshasbi@gmail.com*  
+
+---
